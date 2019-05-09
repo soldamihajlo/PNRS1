@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Projekat1.0</string>
+    <string name="editText">Lokacija za prikaz vremenske prognoze:</string>
+    <string name="naslov">Vremenska prognoza 1.0</string>
+    <string name="dugme">Prikazi</string>
+    <string name="textViewPageTwo1">Lokacija:</string>
+    <string name="textViewPageTwo2">Dan:</string>
+    <string name="pageTwoButtonOne">Temperatura</string>
+    <string name="pageTwoButtonTwo">Izlazak i zalazak sunca</string>
+    <string name="pageTwoButtonThree">Vetar</string>
+    <string name="dropDownListTextView">Jedinica:</string>
+    <string name="temperatura">Temperatura:</string>
+    <string name="pritisak">Pritisak:</string>
+    <string name="vlaznostVazduha">Vlaznost vazduha:</string>
+    <string name="dummyTemperatura">25</string>
+    <string name="dummyPritisak">950</string>
+    <string name="dummyVlaznost">45</string>
+    <string name="dummySunRises">06:00</string>
+    <string name="sunRises">Izlazak sunca:</string>
+    <string name="Sunset">Zalazak sunca:</string>
+    <string name="dummySunSet">17:30</string>
+    <string name="wind">Brzina vetra:</string>
+    <string name="dummyWindSpeed">5.0</string>
+    <string name="windDirection">Pravac:</string>
+    <string name="dummyWindDirection">S</string>
+    <string name="editTextPageOne">unesi grad</string>
+    <string name="imageSun">sunimage</string>
+</resources>
